@@ -23,3 +23,4 @@ Para tanto foi necessário construir um banco de dados MYSQL localhost e constru
 5. Insira os dados em seu banco MYSQL a partir do script localizado em <b> banco_de_dados/scripts/create_table.py
 6. Rode os scripts pythons localizados na pasta agente.
 
+https://platform.openai.com/docs/overview
